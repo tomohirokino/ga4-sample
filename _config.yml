@@ -29,7 +29,6 @@ url: "https://tomohirokino.github.io" # the base hostname & protocol for your si
 twitter_username: jekyllrb
 github_username:  jekyll
 google_analytics: G-05XQDWSLPS
-destination: ./docs
 
 # Build settings
 theme: minima
